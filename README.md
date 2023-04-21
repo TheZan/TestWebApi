@@ -1,6 +1,6 @@
 # Инструкция по запуску проекта
 
-![Animated GIF](https://s12.gifyu.com/images/01-41-09.gif)
+![Guid GIF](https://s12.gifyu.com/images/01-41-09.gif)
 
 ## Шаг 1: Установка необходимых компонентов
 
