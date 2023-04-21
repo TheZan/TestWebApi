@@ -1,0 +1,41 @@
+# ASP.NET Core
+bin/
+obj/
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Any]CPU/
+[Oo]ut/
+
+# Visual Studio
+*.user
+*.suo
+*.cache
+*.vs/
+*.log
+*.vspscc
+*.vssscc
+.vscode/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NuGet
+*.nuget.targets
+*.nuget.props
+packages/
+
+# Other
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.*
+~$*
+*.dbmdl
+*.dbproj.schemaview
+*.pfx
+*.publishsettings
+node_modules/
